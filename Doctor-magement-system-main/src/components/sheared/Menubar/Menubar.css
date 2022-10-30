@@ -1,0 +1,22 @@
+.logo img {
+  height: 60px;
+  padding: 10px;
+}
+.menu-items li {
+  list-style: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 300;
+  margin-right: 10px;
+  padding: 10px;
+}
+.menu-link {
+  text-decoration: none;
+}
+.menu-container{
+  background-color: #003A50;
+  /* position:fixed; */
+}
+.menu-link:hover {
+  color: #00ADEF;
+}

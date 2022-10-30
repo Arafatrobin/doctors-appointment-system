@@ -1,0 +1,30 @@
+.top-header {
+    background-image: url(../../../images/hero-image.webp), linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5));
+    height: 500px;
+    width: 100%;
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+
+.header {
+    color: white;
+    font-weight: bold;
+}
+
+.main-heading {
+    position: absolute;
+    top: 30%;
+    left: 19%;
+}
+
+.appoinment-btn {
+    background-color: #0DCAF0;
+}
+
+.appoinment-btn:hover {
+    background-color: rgb(0, 128, 187);
+}

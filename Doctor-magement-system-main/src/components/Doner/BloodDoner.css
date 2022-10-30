@@ -1,0 +1,45 @@
+.donar {
+  background-image: white;
+}
+.blood-donar {
+  /* border: 1px solid black; */
+  width: 70%;
+  margin: auto;
+  box-shadow: 10px 10px 30px gray;
+  margin-top: 50px;
+  padding: 30px;
+  background-color: #DFFBFF;
+  border-radius: 10px;
+}
+
+.donar {
+  border: 1px solid #003A50;
+  /* box-shadow: 2px 4px 10px gray; */
+  background-color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.donar:hover {
+  transform: translate(3px, -3px);
+  box-shadow: 2px 2px 20px #000;
+  transition: 0.5s;
+}
+.donar-btn {
+  background: rgb(94, 94, 94);
+  padding: 7px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #0DCAF0;
+}
+.donar-btn:hover {
+  /* color: black; */
+  background: #003A50;
+}
+.blood-group {
+  font-size: 40px;
+  font-weight: bold;
+  color: red;
+}

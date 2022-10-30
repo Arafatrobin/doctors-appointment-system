@@ -1,0 +1,49 @@
+body{
+    overflow-x: hidden;
+}
+.doctor-image img{
+    width: 100px; 
+    height:100px;
+    border-radius:50px;
+margin-top: -30px;
+}
+.doctor{
+    background-color: #0DCAF0;
+    /* border: 1px solid gray; */
+    border-radius: 20px;
+    box-shadow: 4px 4px 20px rgb(22, 21, 21);
+    transition:0.8s;
+    width: 80%;
+    height:350px;
+    margin-top:30px;
+
+   
+}
+.doctor:hover{
+border: 1px solid gray;
+margin-top:5px;
+}
+.allDoctors{
+padding: 80px;
+align-items: center;
+text-align: center;
+width: 100%;
+margin: auto;
+
+}
+.doctor-icon p a{
+    color: gray;
+    font-size:25px;
+    margin:5px;
+    padding: 10px;
+}
+.ourDoctors{
+    padding-bottom: 30px;
+}
+.image-border{
+    border: 5px solid #003A50;
+}
+
+.general-btn{
+    background-color: #003A50;
+  }

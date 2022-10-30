@@ -1,0 +1,10 @@
+.ambulance {
+  padding: 10px;
+  background-color:white;
+  border-radius: 5%;
+  margin: 5px;
+  border: 1px solid #003A50;
+}
+.phone-no{
+  color: #003A50;
+}

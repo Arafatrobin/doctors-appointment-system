@@ -1,0 +1,14 @@
+.test {
+    background-color: #0DCAF0;
+    color: white;
+    transition: .5s;
+}
+
+.test:hover {
+    background-color: #003A50;
+}
+
+.book-btn a {
+    text-decoration: none;
+    color: white;
+}
